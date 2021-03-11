@@ -26,7 +26,7 @@
         <maven.compiler.release>${java.version}</maven.compiler.release>
 
         <keycloak.version>11.0.2</keycloak.version>
-        <resteasy.version>3.12.1.Final</resteasy.version>
+        <resteasy.version>3.15.1.Final</resteasy.version>
         <infinispan.version>10.1.8.Final</infinispan.version>
         <jgroups.version>4.2.4.Final</jgroups.version>
         <smallrye-metrics.version>2.3.3</smallrye-metrics.version> <!-- 2.4.0-2.4.2 causes compilation error with Java 11 on Maven -->
